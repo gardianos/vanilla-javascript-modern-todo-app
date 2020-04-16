@@ -1,1 +1,1 @@
-# vanilla-javascript-modern-todo-app
+# Latest Vanilla Javascript Modern TODO App
